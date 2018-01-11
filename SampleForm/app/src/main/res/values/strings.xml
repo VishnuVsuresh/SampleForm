@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleForm</string>
+    <string name="error_enter_email">enter email</string>
+    <string name="error_enter_pswd">enter password</string>
+</resources>
